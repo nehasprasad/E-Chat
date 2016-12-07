@@ -1,0 +1,11 @@
+{
+  "name": "echat",
+  "version": "0.0.1",
+  "description": "Real time chat app",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "socket.io": "^1.7.1"
+  },
+  "author": "Neha"
+}
